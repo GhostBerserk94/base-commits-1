@@ -1,1 +1,1 @@
-In February 2026, Base announced it is moving to its own unified stack called "base/base" 
+Base has no native token, using ETH for gas fees.
