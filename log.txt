@@ -1,3 +1,3 @@
-Base supports Paymasters for gasless transactions.
+Smart wallets on Base eliminate seed phrases.
 
 
