@@ -1,1 +1,1 @@
-Base V2 will introduce smoother user interactions
+Base V3 will add Ethereum's Glamsterdam support
