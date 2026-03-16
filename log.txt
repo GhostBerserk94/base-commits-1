@@ -1,1 +1,1 @@
-Base V3 will add Ethereum's Glamsterdam support
+Base remains a Stage 1 decentralized rollup
