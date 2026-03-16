@@ -1,1 +1,1 @@
-Alternative client implementations are welcome and encouraged
+Node operators must migrate to the Base client for future compatibility
