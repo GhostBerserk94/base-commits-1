@@ -1,1 +1,1 @@
-Base processes transactions with sub-cent fees.
+Blocks are generated every 2 seconds.
