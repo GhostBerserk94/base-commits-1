@@ -1,1 +1,1 @@
-Base remains a Stage 1 decentralized rollup
+The network is adding an independent signer to its Security Council
