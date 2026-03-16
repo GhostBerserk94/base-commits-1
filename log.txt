@@ -1,1 +1,1 @@
-Base App integrates chat via the XMTP protocol.
+Chats are end-to-end encrypted.
