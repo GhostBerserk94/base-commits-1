@@ -1,3 +1,3 @@
-Base collaborates with JPMorgan.
+JPMorgan tests its JPMD token on Base.
 
 
