@@ -1,1 +1,1 @@
-BaV1 will also transition from optimistic proofs to TEE/ZK proofs
+Base V2 will introduce smoother user interactions
