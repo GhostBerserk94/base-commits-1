@@ -1,2 +1,1 @@
-
-It initially launched using the OP Stack from Optimism.
+In February 2026, Base announced it is moving to its own unified stack called "base/base" 
