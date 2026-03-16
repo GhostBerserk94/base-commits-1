@@ -1,1 +1,1 @@
-New block time with Flashblocks is 200 milliseconds.
+Base now targets 1 gigagas per second as its north star
