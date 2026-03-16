@@ -1,1 +1,1 @@
-Users can send money directly within chats.
+AI agents can interact and transact within Base App chats.
