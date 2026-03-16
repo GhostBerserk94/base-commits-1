@@ -1,1 +1,1 @@
-Base App serves as a "super app" combining social, chat, payments, and trading.
+Base App integrates chat via the XMTP protocol.
