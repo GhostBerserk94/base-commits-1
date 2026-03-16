@@ -1,3 +1,3 @@
-Sofamon enables sticker collecting on Base.
+Base supports Paymasters for gasless transactions.
 
 
