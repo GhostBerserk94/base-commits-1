@@ -1,4 +1,4 @@
-Base experiments with content coins.
+A post "Base is for everyone" minted an ERC-20 token.
 
 
 
