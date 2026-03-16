@@ -1,3 +1,2 @@
-Base's TVL still leads among bridged L2 networks
-
+The network is approximately 32% as large as Solana in bridged TVL
 
