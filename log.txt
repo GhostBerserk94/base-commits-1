@@ -1,1 +1,1 @@
-Node operators must migrate to the Base client for future compatibility
+All RPCs, including optimism namespace, will continue to be supported
