@@ -1,1 +1,1 @@
-The network aims to ship six hard forks per year, doubling its current cadence
+Base V1 will implement Ethereum's Fusaka upgrades
