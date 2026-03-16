@@ -1,1 +1,1 @@
-Flashblocks technology has increased speed tenfold.
+New block time with Flashblocks is 200 milliseconds.
