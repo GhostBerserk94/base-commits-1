@@ -1,1 +1,1 @@
-Base is reducing dependencies on external partners like Flashbots and Paradigm
+The protocol code and specifications remain open source
