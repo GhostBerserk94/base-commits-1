@@ -1,1 +1,1 @@
-All RPCs, including optimism namespace, will continue to be supported
+Coinbase Wallet was rebranded to Base App in 2025.
