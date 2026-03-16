@@ -1,1 +1,1 @@
-Base now targets 1 gigagas per second as its north star
+The network aims to ship six hard forks per year, doubling its current cadence
