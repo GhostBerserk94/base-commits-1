@@ -1,1 +1,1 @@
-Base V1 will implement Ethereum's Fusaka upgrades
+BaV1 will also transition from optimistic proofs to TEE/ZK proofs
