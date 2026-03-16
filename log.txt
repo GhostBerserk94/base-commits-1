@@ -1,1 +1,1 @@
-This replaces Optimism-related seats on the council
+Base is reducing dependencies on external partners like Flashbots and Paradigm
