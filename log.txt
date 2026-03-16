@@ -1,1 +1,1 @@
-AI agents can interact and transact within Base App chats.
+Base integrates with Farcaster for social features.
