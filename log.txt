@@ -1,1 +1,1 @@
-Base has no native token, using ETH for gas fees.
+The network is fully EVM-compatible, supporting Solidity and Vyper.
