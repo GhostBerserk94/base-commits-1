@@ -1,1 +1,3 @@
-Shopify has integrated Base Pay for millions of merchants.
+Merchants receive automatic fiat settlements.
+
+
